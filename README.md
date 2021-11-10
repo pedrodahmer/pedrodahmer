@@ -5,9 +5,13 @@ A Fullstack web developer from Brazil focused on always learning and improving m
 ## 💖My Favorite tech
 
 > React
+>
 > Nexjs
+>
 > Nodejs
+>
 > GraphQL
+>
 > Blockchain
 
 # READ THE BOOK!! 📚
