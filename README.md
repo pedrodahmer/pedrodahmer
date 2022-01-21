@@ -10,6 +10,8 @@ A Fullstack web developer from Brazil focused on always learning and improving m
 >
 > Nodejs
 >
+> Jest (Test everything!)
+>
 > GraphQL
 >
 > Blockchain
